@@ -1,0 +1,12 @@
+Maid-chan wa Meido-chuu — Patch PT-BR (nao oficial)
+
+1) Copie esta pasta inteira para DENTRO da pasta do jogo
+   (onde esta メイドちゃんは迷途ちゅう.exe).
+2) Rode INSTALAR.bat
+3) Abra o jogo pelo exe principal (nao use startup.exe).
+
+Para voltar ao japones: RESTAURAR_JP.bat
+
+Veja README.md e LICENSE no repositorio.
+MTL / traducao assistida por maquina. Use por sua conta e risco.
+Precisa do jogo original.
